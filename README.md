@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Anmol Panchal</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer" style="margin-left: 10px;" />
 </div>
 
 # 💻 Tech Stack
@@ -71,7 +71,7 @@
 
 # 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anmolpanchal0207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-panchal02/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anmolpanchal0207@gmail.com)
 
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
